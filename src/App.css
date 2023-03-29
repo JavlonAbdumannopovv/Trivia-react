@@ -1,0 +1,13 @@
+.App {
+  width: 1440px;
+  height: 100vh;
+  margin: auto;
+  background: rgb(233, 248, 252);
+  background-image: url("./Pictures/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background: #000;
+}
